@@ -21,9 +21,9 @@ Designed for learning and easy extension to other classical ciphers.
 
 ### Clone & Run
 ```bash
-git clone https://github.com/<your-username>/<repo-name>.git
-cd <repo-name>
-python caesar_cipher.py
+git clone https://github.com/hvssanraza/caesar-cipher-python.git
+cd caesar-cipher-python
+python caesar-cipher-python.py
 ```
 
 ---
@@ -72,9 +72,8 @@ shift  3: Fcjjm g yk Fyqqyl Pyxy
 ## Project Structure
 ```
 .
-├── caesar_cipher.py   # Main script: encryption, decryption, brute-force
+├── caesar-cipher-python.py   # Main script: encryption, decryption, brute-force
 ├── README.md          # This file
-└── LICENSE            # MIT License (optional)
 ```
 
 ---
@@ -129,6 +128,3 @@ if __name__ == "__main__":
 - Build a simple GUI or web front-end for demonstrations.
 
 ---
-
-## License
-This project is released under the **MIT License** — see `LICENSE` for details.
